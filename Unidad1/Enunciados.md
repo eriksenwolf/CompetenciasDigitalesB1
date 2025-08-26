@@ -50,14 +50,11 @@ Pasos a seguir:
   2. **Enseña cómo usar la herramienta elegida**
  Crea un vídeo o presentación donde expliques cómo funciona la herramienta y cómo mejora la accesibilidad para personas con discapacidades. Muestra ejemplos de cómo usar funciones como lectura en voz alta, subtítulos o personalización de la interfaz.
   3. **Selecciona una licencia Creative Commons**
- Antes de compartir tu contenido, elige una licencia Creative Commons para permitir que otros usen, adapten o compartan tu trabajo bajo ciertas condiciones. Licencias Creative Commons
-
-Inserta el vídeo o la presentación en tu portfolio
+ Antes de compartir tu contenido, elige una licencia Creative Commons para permitir que otros usen, adapten o compartan tu trabajo bajo ciertas condiciones. [Licencias Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)
+  4. **Inserta el vídeo o la presentación en tu portfolio**
  Agrega el contenido creado a tu portfolio digital y asegúrate de incluir la explicación de cómo la herramienta mejora la accesibilidad.
-
-Comparte el enlace de tu portfolio
+  5. **Comparte el enlace de tu portfolio**
  Comparte el enlace a tu portfolio para que se evalúe tu trabajo.
-
 
 
 
@@ -75,6 +72,9 @@ Aprende sobre las funciones de accesibilidad del editor de vídeo online Clipcha
 <p><a href="https://creativecommons.org/share-your-work/cclicenses/"><h3>Tipos de licencias Creative Commons</h3></a>
 Infórmate sobre las diferentes licencias CC que puedes usar para compartir tu trabajo: desde permitir cualquier uso hasta restringir la modificación o el uso comercial.
 </p>
+
+<p align="center"><img src="https://imgur.com/Cl4L1y0"/><p/>
+
 
 <h2 align="center"><a href="https://eriksenwolf.notion.site/Competencias-Digitales-B1-Eduki-Digitalak-1d04e3ab08e380b38a9be644907de330">Portfolio B1 Notion de ejemplo</a></h2>
 
