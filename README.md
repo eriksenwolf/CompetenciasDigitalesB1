@@ -1,8 +1,10 @@
 # CompetenciasDigitalesB1
 Materiales abiertos del curso de Competencias Digitales B1
 
-# 🔹 Mejora tus Competencias Digitales con Herramientas Prácticas 🔹
+## Apoya mi trabajo
+Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
 
+# 🔹 Mejora tus Competencias Digitales con Herramientas Prácticas 🔹
 Te doy la bienvenida a este curso, diseñado para docentes de bachillerato que quieren mejorar sus competencias digitales hasta un nivel B1. A lo largo del curso, trabajarás con herramientas digitales clave para la enseñanza, creando materiales accesibles, diseñando videotutoriales y utilizando plataformas colaborativas.
 
 # 📌 Qué aprenderás:
