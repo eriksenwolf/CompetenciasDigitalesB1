@@ -56,6 +56,7 @@ Pasos a seguir:
   5. **Comparte el enlace de tu portfolio**
  Comparte el enlace a tu portfolio para que se evalúe tu trabajo.
 
+<p align="center"><img src="http://www.attuned.ai/jp-blog/item/682ce25fec26b008f977a55ce5f2dd325aa8dd65.png" width=200px/><p/>
 
 
 <details><summary><h2>Enlaces útiles para la Tarea 1</h2></summary>
@@ -72,8 +73,6 @@ Aprende sobre las funciones de accesibilidad del editor de vídeo online Clipcha
 <p><a href="https://creativecommons.org/share-your-work/cclicenses/"><h3>Tipos de licencias Creative Commons</h3></a>
 Infórmate sobre las diferentes licencias CC que puedes usar para compartir tu trabajo: desde permitir cualquier uso hasta restringir la modificación o el uso comercial.
 </p>
-
-<p align="center"><img src="https://imgur.com/Cl4L1y0"/><p/>
 
 
 <h2 align="center"><a href="https://eriksenwolf.notion.site/Competencias-Digitales-B1-Eduki-Digitalak-1d04e3ab08e380b38a9be644907de330">Portfolio B1 Notion de ejemplo</a></h2>
