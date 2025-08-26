@@ -89,7 +89,7 @@ Aprende sobre las funciones de accesibilidad del editor de vídeo online Clipcha
 <p><a href="https://creativecommons.org/share-your-work/cclicenses/"><h3>Tipos de licencias Creative Commons</h3></a>
 Infórmate sobre las diferentes licencias CC que puedes usar para compartir tu trabajo: desde permitir cualquier uso hasta restringir la modificación o el uso comercial.
 </p>
-
+</details>
 
 <h2 align="center"><a href="https://eriksenwolf.notion.site/Competencias-Digitales-B1-Eduki-Digitalak-1d04e3ab08e380b38a9be644907de330">Portfolio B1 Notion de ejemplo</a></h2>
 
