@@ -81,6 +81,7 @@ La herramienta que voy a elegir para edición de vídeo es la que he utilizado e
 - Presentación: [*Yincana PowerPoint*](https://drive.google.com/file/d/12xd6fLVD2SUI2Ib6jeqV5pMT39lR0-3k/view?usp=sharing)
 - Autoevaluación final: [*Trabajo dinamización Grupo Divergente*](https://drive.google.com/file/d/1DNPlksUdfeTGJri3vNdgHhvUD4vesPtz/view?usp=sharing)
 
+<p align="center"><img src="https://www.exqueezeer.com/wp-content/uploads/2024/03/Group-85.svg" width=300px/></p>
 </td>
   </tr>
   <tr>
