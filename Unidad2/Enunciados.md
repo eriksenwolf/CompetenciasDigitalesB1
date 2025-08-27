@@ -51,7 +51,7 @@ Vas a grabar un vídeotutorial sencillo en el que expliques cómo hacer o unirse
 4. **Graba el vídeotutorial.**
 5. **Inserta el guion del vídeo en el porfolio** en formato PDF.
 
-<p align="center"><img src="https://img.freepik.com/free-vector/videoconference-with-happy-people-desktop-flat-illustration_74855-14200.jpg?semt=ais_hybrid&w=740&q=80" width=300px/></p>
+<p align="center"><img src="https://www.exqueezeer.com/wp-content/uploads/2024/03/Group-86.svg" width=300px/></p>
 
 La herramienta que voy a elegir para edición de vídeo es la que he utilizado en el módulo 1, **Clipchamp**. Para grabar la pantalla haré uso del grabador de pantalla de Windows mediante el atajo de teclado **Win+Alt+G** y **OBS Studio**.
 
