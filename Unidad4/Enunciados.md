@@ -45,5 +45,14 @@ Adjunto [pdf](https://drive.google.com/file/d/1iPCHiAqHsDDJ-jf8VDTsMcIpBHYouCAe/
 
 <h2 align="center"><a href="https://eriksenwolf.notion.site/Competencias-Digitales-B1-Eduki-Digitalak-1d04e3ab08e380b38a9be644907de330">Portfolio B1 Notion de ejemplo</a></h2>
 
+<details><summary><h2>🔗 Enlaces útiles</h2></summary>
+
+  **Plataforma oficial del curso [(Moodlegunea)](https://moodlegune.hezkuntza.net/):**
+
+Accede a todas las actividades, cuestionarios y encuestas del curso, así como a tu perfil y portfolio para completar las tareas necesarias para obtener la medalla.
+</details>
+
+
+
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
