@@ -3,7 +3,7 @@
 
 ## Teoría
 
-<details><summary><h3>¿Qué es un vídeotutorial?</h3></summary>
+<details><summary><h4>¿Qué es un vídeotutorial?</h4></summary>
 Un vídeotutorial es un vídeo corto que explica paso a paso cómo hacer algo. Son muy útiles porque:
 
 * Puedes verlos cuando quieras.
@@ -11,7 +11,7 @@ Un vídeotutorial es un vídeo corto que explica paso a paso cómo hacer algo. S
 * Te permiten aprender a tu ritmo.
 </details>
 
-<details><summary><h3>¿Qué son las videollamadas?</h3></summary>
+<details><summary><h4>¿Qué son las videollamadas?</h4></summary>
 Las videollamadas permiten hablar con otras personas usando vídeo y sonido, como si estuvieras en persona, pero desde casa o cualquier lugar. Son útiles para:
 
 * Reunirse cuando no puedes estar en el mismo sitio.
@@ -19,7 +19,7 @@ Las videollamadas permiten hablar con otras personas usando vídeo y sonido, com
 * Tomar decisiones en grupo.
 </details>
 
-<details><summary><h3>Normas básicas en videollamadas (netiqueta)</h3></summary>
+<details><summary><h4>Normas básicas en videollamadas (netiqueta)</h4></summary>
 La netiqueta es un conjunto de normas para portarse bien en internet. En una videollamada, seguir estas normas ayuda a que todo funcione mejor:
 
 * 🕒 Entra a la hora.
@@ -55,7 +55,7 @@ Vas a grabar un vídeotutorial sencillo en el que expliques cómo hacer o unirse
 
 La herramienta que voy a elegir para edición de vídeo es la que he utilizado en el módulo 1, **Clipchamp**. Para grabar la pantalla haré uso del grabador de pantalla de Windows mediante el atajo de teclado **Win+Alt+G** y **OBS Studio**.
 
-<details><summary><h2>Guion</h2></summary>
+<details><summary><h3>Guion</h3></summary>
 Saludo, presentación y tema a tratar a continuación; qué herramientas vas a usar y cómo acceder a ellas; cómo acceder a una videollamada de otra persona (programada o en el momento); cómo activar o desactivar cámara y sonido; cómo organizar una videollamada; netiqueta en las videolladas (mostrar cara, apagar micro); conclusión: resumir puntos clave.
 
  
